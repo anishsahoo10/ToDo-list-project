@@ -1,0 +1,10 @@
+<!-- This is a placeholder. In production, you'd use an actual PNG image.
+For now, the icon.svg will work as fallback. To generate real PNGs:
+1. Use an online SVG to PNG converter with the icon.svg
+2. Generate 180x180 for apple-touch-icon.png
+3. Generate 192x192 for icon-192x192.png
+4. Generate 512x512 for icon-512x512.png
+-->
+PLACEHOLDER: Generate this PNG from icon.svg at 180x180px
+Visit https://www.svgtopng.com/ and upload /public/icon.svg
+Export at 180x180 pixels and replace this file.
